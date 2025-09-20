@@ -1,0 +1,14 @@
+# Core packages
+streamlit==1.28.2
+moviepy==1.0.3
+
+# Required for video/audio/codecs
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+numpy==1.26.2
+tqdm==4.66.1
+decorator==5.1.1
+proglog==0.1.10
+
+# Optional: Supports st.video preview and smoother rendering
+streamlit-player==1.1.2
