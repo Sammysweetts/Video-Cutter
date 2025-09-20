@@ -1,5 +1,5 @@
 streamlit
-moviepy
-imageio-ffmpeg  # Required for moviepy to process video
-numpy           # Ensures compatibility
-tqdm            # Progress bars for video processing
+moviepy==1.0.3
+imageio-ffmpeg
+numpy
+tqdm
